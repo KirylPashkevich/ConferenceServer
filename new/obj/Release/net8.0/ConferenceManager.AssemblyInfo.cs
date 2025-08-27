@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConferenceManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3ea0a0544264ff9ff908fb5fcfe9b5c184a5eae")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConferenceManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConferenceManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

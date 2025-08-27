@@ -100,3 +100,8 @@ C:\Users\Kirya\Documents\3 cource\TKRP\new\new\bin\Debug\net8.0\ru\Microsoft.Cod
 C:\Users\Kirya\Documents\3 cource\TKRP\new\new\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Kirya\Documents\3 cource\TKRP\new\new\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Kirya\Documents\3 cource\TKRP\new\new\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kirya\Documents\3 cource\TKRP\new\new\obj\Debug\net8.0\ConferenceManager.sourcelink.json
+C:\Users\Kirya\Documents\3 cource\TKRP\new\new\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Kirya\Documents\3 cource\TKRP\new\new\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Kirya\Documents\3 cource\TKRP\new\new\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Kirya\Documents\3 cource\TKRP\new\new\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
